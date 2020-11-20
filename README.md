@@ -1,11 +1,12 @@
 ___
-# **Group Emmanuel MORANO + Jonathan MENSCHAERT**
+# Personal assignment
 ___
-##  :sparkles: :rocket:*Welcome to our repository*  :sparkles::rocket:
+##  :rocket: :rocket:*Welcome to this repository*  :rocket::rocket:
 ___
 ### *What ?*
-![Weather](weather.jpg)
 >We have chosen to work on weather dataset from Kaggle called *"Weather analysis"*
+![D:\GitHub\Data_Tools_Final_Challenge_EM\](weather.jpg)
+
 >[link to our Dataset](https://www.kaggle.com/mastmustu/weather-analysis)
 
 ### *Why ?*
