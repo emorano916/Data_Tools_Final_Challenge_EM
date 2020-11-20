@@ -4,7 +4,7 @@ ___
 ##  :rocket: :rocket:*Welcome to this repository*  :rocket::rocket:
 ___
 ### *What ?*
-![Result](Figure 5 (1).png)
+![Result](Figure5.png)
 >This program get the coordinates of a location in Brugge and return a 3D plot
 
 
