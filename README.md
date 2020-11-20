@@ -16,7 +16,7 @@ ___
 ### *How ?*
 * Use of Mathplotlib, Rasterio, ipywidgets, jupyter lab and numpy
 * ipywidgets give some GUI possibilities in Jupyter Lab, see below.
-![Result](Figure5.png)
+![Result](Jupytershoot.png)
 
 ### *Who ?*
 * Emmanuel MORANO
